@@ -89,7 +89,7 @@ $("#contact-form").submit(function(event) {
 
 document.addEventListener("visibilitychange", function () {
   if (document.visibilityState === "visible") {
-    document.title = "Portfolio | Jigar Sable";
+    document.title = "Portfolio | Bhupesh Patil";
     $("#favicon").attr("href", "assets/images/favicon.png");
   } else {
     document.title = "Come Back To Portfolio";
